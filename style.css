@@ -250,6 +250,8 @@ button:hover{
         height: auto;
         font-size: 15px;
         color: white;
+         -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: greenyellow
     }
     .imagem-palmeiras h1{
         position: fixed;
@@ -257,7 +259,9 @@ button:hover{
         left: 35px;
         font-size: 40px;
         color: white;
-       
+        
+        -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: greenyellow
     }
     .icone1{
         position: fixed;
