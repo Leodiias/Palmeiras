@@ -256,6 +256,9 @@ button:hover{
         top: 130px;
         left: 35px;
         font-size: 40px;
+        color: white;
+        -webkit-text-stroke-width: 0.05px;
+        -webkit-text-stroke-color: greenyellow;
     }
     .icone1{
         position: fixed;
