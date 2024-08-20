@@ -319,5 +319,12 @@ button:hover{
  -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: greenyellow
     }
-    
+     .metade-escura {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(2500deg, #000000d8 100%, rgba(13, 13, 13, 0) 65%) no-repeat;
+ }
 }
