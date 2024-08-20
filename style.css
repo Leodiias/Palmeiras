@@ -246,7 +246,6 @@ button:hover{
         position: fixed;
         top: 250px;
         left: 35px;
-        color: greenyellow;
         width: auto;
         height: auto;
         font-size: 15px;
@@ -256,9 +255,7 @@ button:hover{
         top: 130px;
         left: 35px;
         font-size: 40px;
-        color: greenyellow;
-        -webkit-text-stroke-width: 0.05px;
-        -webkit-text-stroke-color: greenyellow;
+       
     }
     .icone1{
         position: fixed;
