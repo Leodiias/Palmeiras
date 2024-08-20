@@ -249,12 +249,14 @@ button:hover{
         width: auto;
         height: auto;
         font-size: 15px;
+        color: black;
     }
     .imagem-palmeiras h1{
         position: fixed;
         top: 130px;
         left: 35px;
         font-size: 40px;
+        color: black;
        
     }
     .icone1{
