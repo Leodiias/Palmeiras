@@ -327,4 +327,11 @@ button:hover{
     width: 100vw;
     background: linear-gradient(2500deg, #000000d8 100%, rgba(13, 13, 13, 0) 65%) no-repeat;
  }
+     .icone1{
+        position: fixed;
+        top: -135px;
+        left: -167px;
+        z-index: 2;
+        }
+}
 }
